@@ -48,3 +48,5 @@ p {
     margin-top: 25px;
     width: auto;
 }
+a:link {color: darkgreen}
+a:hover {color: blue}
