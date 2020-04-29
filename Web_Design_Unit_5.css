@@ -47,6 +47,9 @@ h2 {
 p {
     margin-top: 25px;
     width: auto;
+}a:link {
+    color: #FF0000
 }
-a:link {color: darkgreen}
-a:hover {color: blue}
+a:hover {
+    color: #0101F8
+}
