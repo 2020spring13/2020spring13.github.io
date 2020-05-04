@@ -1,0 +1,64 @@
+@charset "utf-8";
+Body {
+    background-color: #AFB7EA;
+    width: 950px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 100%;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+header {
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+    width: auto;
+    height: auto;
+}
+ol {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
+div {
+    width: 1000px;
+}
+#container {
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #E3B0B1;
+}
+section {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer {
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    margin-left: 340px;
+    margin-right: 340px;
+}
+a:link {
+    color: #830ECF
+}
+a:hover {color: blue}
